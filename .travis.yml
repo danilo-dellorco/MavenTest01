@@ -7,4 +7,4 @@ jdk:
 
 # Lancio il comando di build Maven
 script:
-  mvn build
+  mvn compile
